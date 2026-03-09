@@ -1,3 +1,5 @@
 Skill 1 Notes
 - Initialized git repository
 - Added files
+
+Bug fix: corrected typo in notes
