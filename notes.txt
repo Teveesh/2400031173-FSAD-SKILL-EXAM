@@ -1,6 +1,11 @@
-Skill 1 Notes
-- Initialized git repository
-- Added files
+FSAD Skill 1
+Git Version Control Demo
 
-Feature update: improved app notes
-Bug fix: corrected typo in notes
+Commands used:
+git init
+git add .
+git commit -m "first commit"
+git branch feature-update
+git branch bug-fix
+git merge
+git push
