@@ -1,3 +1,5 @@
 Skill 1 Notes
 - Initialized git repository
 - Added files
+
+Feature update: improved app notes
