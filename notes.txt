@@ -3,3 +3,4 @@ Skill 1 Notes
 - Added files
 
 Feature update: improved app notes
+Bug fix: corrected typo in notes
